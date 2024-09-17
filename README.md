@@ -33,7 +33,7 @@ The project followed a structured Data Analytics Platform implementation process
 13. **Data Publishing**
 14. **Data Enriching**
 15. **Data Protection**
-
+https://github.com/Kavneet14/data-analyst-kavneet/blob/main/analytical.png
 **AWS Architecture and Tools:**
 The DAP utilized the following AWS services and components:
 - **Amazon S3:** For data storage with multiple buckets for different stages of data processing.
