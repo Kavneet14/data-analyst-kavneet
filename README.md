@@ -78,7 +78,7 @@ The project timeline was 9 weeks.
 
 ---
 
-### Data Wrangling Project 2
+### Descriptive Analysis Project 2
 #### Project Title: Implementation of Data Analytics Platform for Workforce Pay Rate Analysis in Vancouver
 
 **Objective:**
