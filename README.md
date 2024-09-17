@@ -98,6 +98,8 @@ The dataset included employee pay rates and gender information, containing the f
 6. **Data Visualization**
 7. **Data Access and Distribution**
 8. **Automation and Orchestration**
+   
+<img width="880" alt="port2" src="https://github.com/user-attachments/assets/93f9a703-d98a-454e-a8cb-28ee1585345f">
 
 **Tools and Technologies:**
 The DAP utilized AWS services and components including:
