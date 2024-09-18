@@ -141,7 +141,7 @@ The project focused on the following key areas:
 5. **Validation Rules and Procedures**
 6. **Training and Best Practices**
 7. **Feedback Mechanism**
-
+![last-Cloud Solution W#7](https://github.com/user-attachments/assets/2b49e01e-a7c4-4134-b330-124f0d9d3304)
 **Tools and Technologies:**
 - **AWS Key Management Service (KMS):** For data encryption.
 - **AWS Glue:** For metadata management and data cataloging.
