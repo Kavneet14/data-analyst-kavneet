@@ -4,7 +4,7 @@
 ### Data Wrangling Project 1
 #### Project Title: Implementation of Data Analytics Platform for Enhanced Occupational Health and Safety Procedures at UCW HR Department
 
-Objective:
+**Objective:**
 The primary objective of this project was to implement a Data Analytics Platform (DAP) to enhance the Occupational Health and Safety (OHS) procedures at the University Canada West (UCW) HR Department. Leveraging AWS services, the project aimed to improve the efficiency, accuracy, and insights derived from OHS data.
 
 **Background:**
@@ -142,6 +142,7 @@ The project focused on the following key areas:
 6. **Training and Best Practices**
 7. **Feedback Mechanism**
 <img width="671" alt="last ss" src="https://github.com/user-attachments/assets/c167cfc8-f30c-41ad-9af5-d4e24a37df22">
+
 **Tools and Technologies:**
 - **AWS Key Management Service (KMS):** For data encryption.
 - **AWS Glue:** For metadata management and data cataloging.
